@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FireBaseTest2</string>
+    <string name="Splash_loading">Loading...</string>
+    <string name="enter_your_phone">Enter your phone</string>
+    <string name="get_otp">Send Otp</string>
+    <string name="enter_otp">enter otp</string>
+    <string name="verify_otp">Verify otp</string>
+    <string name="chooseImage">chooseImage</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="enter_your_details">enter your details</string>
+    <string name="save">Save</string>
+</resources>
